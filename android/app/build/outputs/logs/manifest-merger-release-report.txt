@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4be02a814618b185c4102a6500594fdf/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/34c1fbd8bbdfa2809fddab84b5c76a3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7847c44ac5ee93e10bdf844976a6c45e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/304a8f536e61d702c776348af41f1a85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7917be5d3b19f09f23dceddf1bf2f691/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a6bb2a3bb70b02bae326b8cdfd511d2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f71415d7ba2b1609e28c8d92d4c165c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/801912587cd5e550706942a4034b8b3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9f1cb8a3b782cc4589934dc62584df7d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d42465bb209980e200985fcb17f34b21/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c26bd65b8eb702c531dad5e1c14931d0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7e97df629fd9e640424f8d9ec30386e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/584a524a14bc346dfcddcb1c29df33b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/620c1908f062b361ca92ece744f3695e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/55010802843e57cc9fea7fbd2b5064fa/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ed5a4f255c5f682372b444c6a0e3309d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f6306f3e3ad2b392e4411b3e607b9b8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f93c8528bb49c9ea20cc256bd19fa011/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7964127b80294129c0b06e6a3800c58f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f8513bfb4a1739df6beecb58317f8fd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4be02a814618b185c4102a6500594fdf/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4be02a814618b185c4102a6500594fdf/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4be02a814618b185c4102a6500594fdf/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4be02a814618b185c4102a6500594fdf/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/620c1908f062b361ca92ece744f3695e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/620c1908f062b361ca92ece744f3695e/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/55010802843e57cc9fea7fbd2b5064fa/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/55010802843e57cc9fea7fbd2b5064fa/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.lovemeter.MainActivity
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4be02a814618b185c4102a6500594fdf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/4be02a814618b185c4102a6500594fdf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/34c1fbd8bbdfa2809fddab84b5c76a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/34c1fbd8bbdfa2809fddab84b5c76a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7847c44ac5ee93e10bdf844976a6c45e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7847c44ac5ee93e10bdf844976a6c45e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/304a8f536e61d702c776348af41f1a85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/304a8f536e61d702c776348af41f1a85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7917be5d3b19f09f23dceddf1bf2f691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7917be5d3b19f09f23dceddf1bf2f691/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a6bb2a3bb70b02bae326b8cdfd511d2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a6bb2a3bb70b02bae326b8cdfd511d2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f71415d7ba2b1609e28c8d92d4c165c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f71415d7ba2b1609e28c8d92d4c165c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/801912587cd5e550706942a4034b8b3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/801912587cd5e550706942a4034b8b3c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9f1cb8a3b782cc4589934dc62584df7d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9f1cb8a3b782cc4589934dc62584df7d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d42465bb209980e200985fcb17f34b21/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d42465bb209980e200985fcb17f34b21/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c26bd65b8eb702c531dad5e1c14931d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/c26bd65b8eb702c531dad5e1c14931d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7e97df629fd9e640424f8d9ec30386e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7e97df629fd9e640424f8d9ec30386e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/584a524a14bc346dfcddcb1c29df33b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/584a524a14bc346dfcddcb1c29df33b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/620c1908f062b361ca92ece744f3695e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/620c1908f062b361ca92ece744f3695e/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ed5a4f255c5f682372b444c6a0e3309d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ed5a4f255c5f682372b444c6a0e3309d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f6306f3e3ad2b392e4411b3e607b9b8d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f6306f3e3ad2b392e4411b3e607b9b8d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f93c8528bb49c9ea20cc256bd19fa011/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f93c8528bb49c9ea20cc256bd19fa011/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7964127b80294129c0b06e6a3800c58f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7964127b80294129c0b06e6a3800c58f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f8513bfb4a1739df6beecb58317f8fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ardasenturk/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f8513bfb4a1739df6beecb58317f8fd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/ardasenturk/Desktop/Examples/RNExample/loveMeter/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
